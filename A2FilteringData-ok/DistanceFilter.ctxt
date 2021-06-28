@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DistanceFilter
+comment1.params=lat\ lon\ maxDistance
+comment1.target=DistanceFilter(double,\ double,\ double)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4
